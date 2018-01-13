@@ -1,0 +1,23 @@
+{
+  "name": "TallySticks",
+  "version": "1.0.0",
+  "description": "TallySticks",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Ned Hasovic",
+  "license": "No License",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "crypto": "^1.0.1",
+    "crypto2": "^0.3.3",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "fs": "0.0.1-security",
+    "method-override": "^2.3.7",
+    "mongodb": "^3.0.1",
+    "path": "^0.12.7",
+    "redis": "^2.7.1"
+  }
+}
